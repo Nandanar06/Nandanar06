@@ -1,28 +1,77 @@
-<h1 align="center">Hi 👋, I'm NANDANA R</h1>
-<h3 align="center">I am a Computer Science undergraduate with a strong interest in software development and problem solving. I am currently building my skills in Python and Data Structures, focusing on improving my logical thinking and coding abilities. I previously served as a Co-Lead at TinkerHub MITS, where I contributed to organizing technical events and worked closely with a team, which helped me develop my communication and leadership skills. I am currently working towards becoming a software developer and preparing for placement opportunities in top tech companies. I am always open to learning, collaboration, and new opportunities.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20NANDANA%20R&fontSize=50&animation=fadeIn" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanar06" alt="nandanar06" /></a> </p>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h2> PASSIONATE DEVELOPER </h2>
+      <p>
+        I am a <b>Computer Science undergraduate</b> dedicated to building elegant software and solving complex problems. 
+        Formerly a <b>Co-Lead at TinkerHub MITS</b>, I thrive in collaborative environments where I can lead and learn.
+      </p>
+      <p>
+        🚀 <b>𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝖥𝗈𝖼𝗎𝗌:</b> <br>
+        <kbd>React.js</kbd> • <kbd>Modern JS</kbd> • <kbd>Frontend Architectures</kbd>
+      </p>
+      <p>
+        🎯 <b>𝖦𝗈𝖺𝗅𝗌:</b> <br>
+        <code>First Open-source contribution</code> <br>
+        <code>Hosting Personal Portfolio</code>
+      </p>
+      <p>
+        ⚡ <i>"I debug faster after coffee and late-night playlists ☕💻"</i>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="280px" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Front-end web development (React, JS, CSS)**
+<div align="center">
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanar06&theme=radical&no-frame=true&margin-w=15" alt="trophies" /></a>
+  </p>
+</div>
 
-- 💬 Current Goals **Finish and host my personal portfolio Make my first open-source contribution Improve in React and JavaScript**
+---
 
-- 📫 How to reach me **nandanar0002@gmail.com**
-
-- ⚡ Fun fact **"I debug faster after coffee and late-night playlists ☕💻"**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ LANGUAGES AND TOOLS
 <p align="left">
-<a href="https://linkedin.com/in/nandana r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandana r" height="30" width="40" /></a>
-<a href="https://instagram.com/nandanar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandanar06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nandanar0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandanar0002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nandanar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandanar06" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nandana r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandana r" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,js,java,c,react,django,flask,nodejs,html,css,tailwind&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,aws,gcp,git,figma,flutter&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanar06&show_icons=true&locale=en" alt="nandanar06" /></p>
+### 📊 GITHUB STATISTICS
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandanar06&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nandanar06&theme=radical" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandanar06&" alt="nandanar06" /></p>
+---
+
+### 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
+<div align="left">
+  <a href="https://linkedin.com/in/nandana-r" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.leetcode.com/nandanar06" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/nandanar0002" target="blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
+  </a>
+  <a href="https://instagram.com/nandanar06" target="blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
